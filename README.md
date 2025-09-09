@@ -1,7 +1,7 @@
 # Challenge Amigo Secreto:
   A aplicação em questão se propõe realizar a simulação de um sorteio de amigo oculto de maneira simples e fácil, proposto pelo challenge de iniciante do curso de programação da ONE em parceria com a Alura;
   
-  O sistema permite adicionar participantes, realizar o sorteio de forma automática e exibir os resultados de maneira justa e aleatória;
+  O sistema permite adicionar participantes, realizar o sorteio e exibir os resultados de maneira justa e aleatória;
 
   O projeto em questão foi realizado utilizando Java Script e conceitos básicos de lógica de programação ensinados ao longo do curso.
 
